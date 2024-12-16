@@ -1,2 +1,2 @@
-# StellarScapeVIP
- VR based musical experience
+# StellarScapeENV
+ VR bases musical experience
